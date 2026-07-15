@@ -19,3 +19,5 @@ function Square:new(size)
 end
 local square = Square:new(5)
 print(square:area())
+
+print("Hello, world!")
